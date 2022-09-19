@@ -4,9 +4,7 @@ import Todo from "./components/Todo";
 const App: VoidComponent = () => {
   return (
     <div class="flex flex-col">
-      <Todo text="get groceries" />
-      <Todo text="cook" />
-      <Todo text="sell taco" />
+      <Todo text="give me money" />
     </div>
   );
 };
